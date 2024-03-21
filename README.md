@@ -1,0 +1,2 @@
+# learntoPronouceIt
+Pronounce English words
